@@ -14,7 +14,7 @@ Si ya tienes dinero disponible para retirar, sigue los pasos a continuación:
 
 El dinero generado por las ventas estará disponible cuando se cumplan las siguientes condiciones:
 - La venta fue aprobada.
-- Ya pasaron los días necesarios para disponibilizar del monto.
+- Ya pasaron los días necesarios para que el monto esté disponible.
 >Los días hasta tener el dinero
 disponible varían dependiendo del país en que tengas tu cuenta. <a href="#Sección ejemplo">Consulta esto desde tu cuenta de Mercado Pago.</a>
 
@@ -22,8 +22,9 @@ Si deseas que tu dinero esté disponible más rápido, consulta la sección a co
 
 # ¿Cómo me convierto en un usuario profesional?
 
+Los usuarios profesionales tendrán disponible el dinero de sus ventas con más rapidez que un usuario estándar.
+
 Para que tu cuenta sea promovida a 'Usuario Profesional', Mercado Pago tendrá en cuenta los siguientes aspectos:
 - Tu trayectoria dentro de Mercado Pago y tu frecuencia de uso.  
 - El dinero de las operaciones con reclamos no puede ser mayor al 10% de lo que cobres por mes.
 - El análisis crediticio de tu cuenta.
-
